@@ -1,0 +1,20 @@
+# Vivado generated files
+*.jou
+*.log
+*.str
+*.zip
+.Xil/
+
+Snake_game.cache/
+Snake_game.hw/
+Snake_game.runs/
+Snake_game.sim/
+
+# macOS junk
+.DS_Store
+
+# Editor folders
+.vscode/
+.idea/
+
+
